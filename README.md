@@ -4,9 +4,9 @@ Course work practical part for Deep neural networks to predict stock price time 
 
 There are 3 types of neural network:
  - RNN - Recurrent Neural Network
- - 
+ 
  - CNN - Convolutional Neural Network
- - 
+
  - TNN - Transformer Neural Network
 
 As well there is benchmark model (tomorrows price (predicted) is same as todays price (real))
